@@ -15,6 +15,7 @@
 [<img align="left" alt="zakaria-bouhmid | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.5.0/icons/linkedin.svg" />][linkedin]
 
 
+
 ### Languages and tools:
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
