@@ -14,7 +14,7 @@
 [<img align="left" alt="zakaria.bmd@gmail.com@gmail.com | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.5.0/icons/gmail.svg" />][gmail]
 [<img align="left" alt="zakaria-bouhmid | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.5.0/icons/linkedin.svg" />][linkedin]
 
-
+<br />
 
 ### Languages and tools:
 
