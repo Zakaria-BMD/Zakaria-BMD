@@ -4,7 +4,7 @@
 
 **I am very curious to discover new technologies and solve problems and call on my creativity**
 
-- 🔭 I’m currently looking for intern internship in embedded systems
+- 🔭 I’m currently looking for internship in embedded systems
 - 👯 I’m currently working on 🤖 MusicCategoryIA and ⚡ SmartElectricCounter
 - 🌱 I’m currently learning Angular, D3.js and Bootloader Programming
 
