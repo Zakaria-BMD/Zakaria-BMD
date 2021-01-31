@@ -11,6 +11,7 @@
 
 ### Contact me :
 
+[<img align="left" alt="bouhmid-zakaria.web.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="zakaria.bmd@gmail.com@gmail.com | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.5.0/icons/gmail.svg" />][gmail]
 [<img align="left" alt="zakaria-bouhmid | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.5.0/icons/linkedin.svg" />][linkedin]
 
@@ -49,6 +50,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[website]: https://bouhmid-zakaria.web.app/
 
 [gmail]: https://mail.google.com/mail/u/3/#inbox?compose=new/zakaria.bmd@gmail.com
 
