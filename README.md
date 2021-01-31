@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently looking for internship in embedded systems
 - 👯 I’m currently working on 🤖 MusicCategoryIA and ⚡ SmartElectricCounter
-- 🌱 I’m currently learning Angular, D3.js and Bootloader Programming
+- 🌱 I’m currently learning React.js, Perl and Bootloader Programming
 
 
 ### Contact me :
