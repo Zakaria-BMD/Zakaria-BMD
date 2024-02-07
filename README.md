@@ -1,12 +1,12 @@
 ### Hi there, I'm Zakaria BOUHMID <a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-**I'm an engineering student in embedded systems**
+**I'm an embedded software engineer**
 
 **I am very curious to discover new technologies and solve problems and call on my creativity**
 
-- 🔭 I’m currently in internship for six month in Stellantis / MTC (Morocco Technical Center)
-- 👯 I’m currently working on 🤖 MusicCategoryIA and ⚡ SmartElectricCounter
-- 🌱 I’m currently learning React.js, Perl and Bootloader Programming
+- 🔭 I’m currently working for Safran
+- 👯 I’m currently working on Smart Home
+- 🌱 I’m currently learning Jenkins, Docker, CI/CD and Bootloader Programming
 
 
 ### Contact me :
@@ -40,7 +40,7 @@
 **Zakaria-BMD/Zakaria-BMD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 👋
 Here are some ideas to get you started:
-
+🤖 ⚡
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
